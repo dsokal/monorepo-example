@@ -12,7 +12,7 @@
       "package": "com.rnapp"
     },
     "ios": {
-      "bundleIdentifier": "org.name.rnapp"
+      "bundleIdentifier": "com.monorepo.example.dominik"
     }
   }
 }
