@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "name": "monorepo-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dominik Sokal <dominik.sokal@swmansion.com>",
+  "license": "MIT",
+  "workspaces": {
+    "packages":[
+      "rnapp",
+      "somelib"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "rnapp",
+  "displayName": "rnapp",
+  "expo": {
+    "name": "rnapp",
+    "slug": "rnapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
